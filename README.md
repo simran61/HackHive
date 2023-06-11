@@ -1,2 +1,2 @@
 # HackHive
-Websste for hackathon
+Website for hackathon
